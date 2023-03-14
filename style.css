@@ -5,9 +5,11 @@ body {
 h1 {
     color:rgb(0, 255, 245);
     margin-left: 20px;
+    text-align: center;
 }
 
 p {
     font-weight: bolder;
     font-size: xx-large;
+    text-align: center;
 }
